@@ -405,13 +405,13 @@ Use this endpoint with the hash of a digitial file to check its status. Pass the
 {
   "blockHash": "string",
   "blockNumber": 0,
-  "blockTime": "2018-12-17T03:55:23Z",
+  "blockTime": "2018-12-18T12:59:07Z",
   "confirmations": 0,
   "expectedSubmissionTime": 0,
   "seedHash": "string",
   "status": 0,
   "txId": "string",
-  "txTime": "2018-12-17T03:55:23Z"
+  "txTime": "2018-12-18T12:59:07Z"
 }
 ```
 
@@ -580,7 +580,7 @@ Verify status using a stampId and a stampHash. Use this method to check the stat
 {
   "blockHash": "string",
   "blockNumber": 0,
-  "blockTime": "2018-12-17T03:55:23Z",
+  "blockTime": "2018-12-18T12:59:07Z",
   "confirmations": 0,
   "expectedSubmissionTime": 0,
   "paid": false,
@@ -588,7 +588,7 @@ Verify status using a stampId and a stampHash. Use this method to check the stat
   "seedHash": "string",
   "status": 0,
   "txId": "string",
-  "txTime": "2018-12-17T03:55:23Z"
+  "txTime": "2018-12-18T12:59:07Z"
 }
 ```
 
@@ -911,13 +911,13 @@ This operation does not require authentication
 {
   "blockHash": "string",
   "blockNumber": 0,
-  "blockTime": "2018-12-17T03:55:23Z",
+  "blockTime": "2018-12-18T12:59:07Z",
   "confirmations": 0,
   "expectedSubmissionTime": 0,
   "seedHash": "string",
   "status": 0,
   "txId": "string",
-  "txTime": "2018-12-17T03:55:23Z"
+  "txTime": "2018-12-18T12:59:07Z"
 }
 
 ```
@@ -946,7 +946,7 @@ This operation does not require authentication
 {
   "blockHash": "string",
   "blockNumber": 0,
-  "blockTime": "2018-12-17T03:55:23Z",
+  "blockTime": "2018-12-18T12:59:07Z",
   "confirmations": 0,
   "expectedSubmissionTime": 0,
   "paid": false,
@@ -954,7 +954,7 @@ This operation does not require authentication
   "seedHash": "string",
   "status": 0,
   "txId": "string",
-  "txTime": "2018-12-17T03:55:23Z"
+  "txTime": "2018-12-18T12:59:07Z"
 }
 
 ```
